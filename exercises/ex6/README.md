@@ -48,7 +48,7 @@ Follow these steps to complete the exercise:<br>
 
 ### Steps:
 Follow these steps to complete the exercise:<br>
-1.  Log on to the **SRC** system in SAP GUI, client **300**, using the user **DEMOXX** (replace *XX* with your exercise number, for example **DEMO01**), and open the transaction **DTV** (Data Transition Validation - Tool).<br>
+1.  Log on to the **SRC** system in SAP GUI, client **300**, using the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**), and open the transaction **DTV** (Data Transition Validation - Tool).<br>
 2.  In the **Project ID** field, enter **DTV_REFERENCE_PROJECT_XX** [1] and choose **Copy** [2].<br>
 
     > **ℹ️ NOTE**: Normally, the project is created based on the Transformation Area ID. To simplify this exercise and make the setup more readable, a preconfigured reference project has been provided for you to copy.
@@ -56,7 +56,7 @@ Follow these steps to complete the exercise:<br>
     ![](/exercises/ex6/images/Screenshot-2-01.png)<br>
 
 3.  The **Copy Project** dialog opens.<br><br>
-    Enter **DTV_CS162_XX** (replace *XX* with your exercise number, for example **DTV_CS162_01**) as the **ID** [1], and choose **Continue** [2].<br><br>
+    Enter **DTV_CS162_XX** (replace *XX* with your seat number, for example **DTV_CS162_01**) as the **ID** [1], and choose **Continue** [2].<br><br>
     ![](/exercises/ex6/images/Screenshot-2-02.png)<br>
 
 4.  The **DTV project** is now successfully copied. Choose **Change** to open the project details.<br><br>

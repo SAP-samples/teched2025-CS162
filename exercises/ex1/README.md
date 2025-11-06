@@ -3,12 +3,12 @@
 
 ## Steps:
 Follow these steps to complete the exercise:<br>
-1.  Log on to the **SRC** system in SAP GUI, client **300**, using the user **DEMOXX** (replace *XX* with your exercise number, for example **DEMO01**), and open transaction **SE38** (ABAP Editor).<br>
+1.  Log on to the **SRC** system in SAP GUI, client **300**, using the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**), and open transaction **SE38** (ABAP Editor).<br>
 2.  In the **Program** field, enter **RC_UDP_START_DMR2** [1] and choose **Execute** (F8) [2].<br><br>
     ![](/exercises/ex1/images/Screenshot-01.png)<br>
 3.  Choose **Download DRM2 Analysis Data** and save the file to your local disk.<br><br>
     ![](/exercises/ex1/images/Screenshot-02.png)<br>
-4.  Switch to [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your exercise number, for example **DEMO01**).<br>
+4.  Switch to [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**).<br>
 
     > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 
@@ -16,7 +16,7 @@ Follow these steps to complete the exercise:<br>
     ![](/exercises/ex1/images/Screenshot-03.png)<br>
 6.  In the **Manage Analysis File** application, choose **Create**.<br><br>
     ![](/exercises/ex1/images/Screenshot-04.png)<br>
-7.  Enter **UDP_CS162_XX** (replace *XX* with your exercise number, for example **UDP_CS162_01**) as the **Name** and keep the default **Analysis Type**.<br><br>
+7.  Enter **UDP_CS162_XX** (replace *XX* with your seat number, for example **UDP_CS162_01**) as the **Name** and keep the default **Analysis Type**.<br><br>
     ![](/exercises/ex1/images/Screenshot-05.png)<br>
 8.  Upload the file you downloaded in Step 3 and choose **Create**.<br><br>
     ![](/exercises/ex1/images/Screenshot-06.png)<br>

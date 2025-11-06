@@ -12,7 +12,7 @@ This exercise consists of the following sub-exercises:
 
 ### Steps:
 Follow these steps to complete the exercise:<br>
-1.  Log on to the **TGT** system in SAP GUI, client **400**, using the user **DEMOXX** (replace *XX* with your exercise number, for example **DEMO01**), and open the transaction **FINS_MIG_STATUS** (Start and Monitor Migration).<br>
+1.  Log on to the **TGT** system in SAP GUI, client **400**, using the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**), and open the transaction **FINS_MIG_STATUS** (Start and Monitor Migration).<br>
 2.  The **SFIN Migration Monitor** appears. Review the configuration and ensure that the migration status is Completed.<br><br>
     During the migration process, the original source tables are copied into temporary tables in the target system. Since **SAP S/4HANA** introduces a new accounting data model, the financial data must be **converted and reorganized** into the **universal journal structure** (ACDOCA).<br><br>
     ![](/exercises/ex7/images/Screenshot-1-01.png)<br>
@@ -26,8 +26,8 @@ Follow these steps to complete the exercise:<br>
 
 ### Steps:
 Follow these steps to complete the exercise:<br>
-1.  Log on to the **TGT** system in SAP GUI, client **400**, using the user **DEMOXX** (replace *XX* with your exercise number, for example **DEMO01**), and open the transaction **DTV** (Data Transition Validation - Tool).<br>
-2.  In the **Project ID** field, select **DTV_CS162_XX** [1] (replace *XX* with your exercise number, for example **DTV_CS162_01**) and choose **Change** [2].<br><br>
+1.  Log on to the **TGT** system in SAP GUI, client **400**, using the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**), and open the transaction **DTV** (Data Transition Validation - Tool).<br>
+2.  In the **Project ID** field, select **DTV_CS162_XX** [1] (replace *XX* with your seat number, for example **DTV_CS162_01**) and choose **Change** [2].<br><br>
     ![](/exercises/ex7/images/Screenshot-2-01.png)<br>
 
 3.  The project details open. Double-click **Maintain Systems** to review the configuration.<br><br>

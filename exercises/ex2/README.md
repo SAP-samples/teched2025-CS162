@@ -6,9 +6,9 @@ Follow these steps to complete the exercise:<br>
 1.  Within your uploaded analysis file, choose **Create Digital Blueprint**.<br><br>
     ![](/exercises/ex2/images/Screenshot-01.png)<br>
 
-    > **💡 TIP**: If you closed the application, reopen [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your exercise number, for example **DEMO01**). Then navigate to **Transformation** > **Manage Digital Blueprint** and choose **Create**.
+    > **💡 TIP**: If you closed the application, reopen [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**). Then navigate to **Transformation** > **Manage Digital Blueprint** and choose **Create**.
 
-2.  Enter **BLUEPRINT_CS162_XX** (replace *XX* with your exercise number, for example **BLUEPRINT_CS162_01**) as the **Name**, and make sure the **Analysis** created in the previous exercise is selected. Afterwards, choose **Create**.<br><br>
+2.  Enter **BLUEPRINT_CS162_XX** (replace *XX* with your seat number, for example **BLUEPRINT_CS162_01**) as the **Name**, and make sure the **Analysis** created in the previous exercise is selected. Afterwards, choose **Create**.<br><br>
     ![](/exercises/ex2/images/Screenshot-02.png)<br>
 3.  The **Digital Blueprint** has now been successfully created.<br><br>
     ![](/exercises/ex2/images/Screenshot-03.png)<br>
