@@ -162,7 +162,7 @@ Follow these steps to complete the exercise:<br>
 9.  **Congratulations!** You have successfully completed this sub-exercise.<br><br><br> 
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/cs162/quiz/1dma2oio) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/cs162in/quiz/jey5vqm8) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>

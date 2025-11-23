@@ -6,7 +6,7 @@ Follow these steps to complete the exercise:<br>
 1.  Within your uploaded analysis file, choose **Create Digital Blueprint**.<br><br>
     ![](/exercises/ex2/images/Screenshot-01.png)<br>
 
-    > **💡 TIP**: If you closed the application, reopen [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**). Then navigate to **Transformation** > **Manage Digital Blueprint** and choose **Create**.
+    > **💡 TIP**: If you closed the application, reopen [SAP Cloud ALM](https://calm-8qdbq5gf.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**). Then navigate to **Transformation** > **Manage Digital Blueprint** and choose **Create**.
 
 2.  Enter **BLUEPRINT_CS162_XX** (replace *XX* with your seat number, for example **BLUEPRINT_CS162_01**) as the **Name**, and make sure the **Analysis** created in the previous exercise is selected. Afterwards, choose **Create**.<br><br>
     ![](/exercises/ex2/images/Screenshot-02.png)<br>
@@ -38,7 +38,7 @@ Follow these steps to complete the exercise:<br>
 12. **Congratulations!** You have successfully completed this exercise.<br><br><br>
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/cs162/quiz/5cxsxroe) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/cs162in/quiz/w0bqae4t) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>

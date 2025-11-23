@@ -8,7 +8,7 @@ Follow these steps to complete the exercise:<br>
     ![](/exercises/ex1/images/Screenshot-01.png)<br>
 3.  Choose **Download DRM2 Analysis Data** and save the file to your local disk.<br><br>
     ![](/exercises/ex1/images/Screenshot-02.png)<br>
-4.  Switch to [SAP Cloud ALM](https://calm-consarea-sdt.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**).<br>
+4.  Switch to [SAP Cloud ALM](https://calm-8qdbq5gf.eu10-004.alm.cloud.sap) and log in with the user **DEMOXX** (replace *XX* with your seat number, for example **DEMO01**).<br>
 
     > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 
@@ -30,7 +30,7 @@ Follow these steps to complete the exercise:<br>
 
 
 ## Optional: Test Your Knowledge
-Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/cs162/quiz/45q8xcfn) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
+Run this optional [quiz](https://quiz-app-gk8jvkhz.cfapps.eu10-005.hana.ondemand.com/cs162in/quiz/x4yws9vv) to test your understanding. If you prefer to skip it, continue with the next exercise.<br>
 
 > **💡 TIP**: To open this link in a new tab, **right-click** and choose **Open Link in New Tab**.
 <br>
